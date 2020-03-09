@@ -1,0 +1,57 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #FFA500;
+  background: #FFA500;
+}
+
+.container {
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 1000px;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1.25em;
+}
+
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+
+section {
+}
+
+#left {
+}
+
+#middle {
+}
+
+#right {
+}
+
+#full {
+}
+
+#division {
+}
+
+aside {
+}
+
+footer {
+}
